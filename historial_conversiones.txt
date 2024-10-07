@@ -1,0 +1,1 @@
+[{"Conversion": "metros -> pies", "Cantidad": 100.0, "Resultado": 328.084, "Fecha": "2024-10-07"}, {"Conversion": "Kilogramos -> libras", "Cantidad": 1000.0, "Resultado": 2204.62, "Fecha": "2024-10-07"}, {"Conversion": "metros -> pies", "Cantidad": 6.0, "Resultado": 19.68504, "Fecha": "2024-10-07"}]
